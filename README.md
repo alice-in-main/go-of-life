@@ -19,4 +19,5 @@ How to play:
 3. Build using `go build .`
 4. Run go-of-life
 
-![go-of-life](https://user-images.githubusercontent.com/44703928/144925138-a9475697-d685-448c-8213-701f409607f8.gif)
+
+![go-of-life](https://user-images.githubusercontent.com/44703928/144926008-ddc04cd4-f68e-4df3-879c-3cd96b6b0774.gif)
